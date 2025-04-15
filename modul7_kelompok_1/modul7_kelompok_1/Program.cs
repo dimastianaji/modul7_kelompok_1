@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using modul7_kelompok_1;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        var data = new DataMahasiswa2311104058();
+        data.ReadJSON();
+    }
+}

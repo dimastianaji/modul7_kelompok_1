@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\College\\Semester 4\\PrakKPL\\07_Grammar-Based_Input_Processing_Parsing\\JURNAL\\modul7_kelompok_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F1E8ED7-32D9-44C0-9EA1-DB1085ECB88E}|modul7_kelompok_1\\modul7_kelompok_1.csproj|d:\\college\\semester 4\\prakkpl\\07_grammar-based_input_processing_parsing\\jurnal\\modul7_kelompok_1\\modul7_kelompok_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F1E8ED7-32D9-44C0-9EA1-DB1085ECB88E}|modul7_kelompok_1\\modul7_kelompok_1.csproj|solutionrelative:modul7_kelompok_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B303A08B-A2AD-44B1-93FE-739544741872}|modul7_kelompok_1\\modul7_kelompok_1.csproj|d:\\college\\semester 4\\prakkpl\\07_grammar-based_input_processing_parsing\\jurnal\\modul7_kelompok_1\\modul7_kelompok_1\\datamahasiswa2311104058.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B303A08B-A2AD-44B1-93FE-739544741872}|modul7_kelompok_1\\modul7_kelompok_1.csproj|solutionrelative:modul7_kelompok_1\\datamahasiswa2311104058.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B303A08B-A2AD-44B1-93FE-739544741872}|modul7_kelompok_1\\modul7_kelompok_1.csproj|d:\\college\\semester 4\\prakkpl\\07_grammar-based_input_processing_parsing\\jurnal\\modul7_kelompok_1\\modul7_kelompok_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B303A08B-A2AD-44B1-93FE-739544741872}|modul7_kelompok_1\\modul7_kelompok_1.csproj|solutionrelative:modul7_kelompok_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,14 +39,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DataMahasiswa2311104058.cs",
+              "DocumentMoniker": "D:\\College\\Semester 4\\PrakKPL\\07_Grammar-Based_Input_Processing_Parsing\\JURNAL\\modul7_kelompok_1\\modul7_kelompok_1\\DataMahasiswa2311104058.cs",
+              "RelativeDocumentMoniker": "modul7_kelompok_1\\DataMahasiswa2311104058.cs",
+              "ToolTip": "D:\\College\\Semester 4\\PrakKPL\\07_Grammar-Based_Input_Processing_Parsing\\JURNAL\\modul7_kelompok_1\\modul7_kelompok_1\\DataMahasiswa2311104058.cs",
+              "RelativeToolTip": "modul7_kelompok_1\\DataMahasiswa2311104058.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAIA2wDwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T15:50:50.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\College\\Semester 4\\PrakKPL\\07_Grammar-Based_Input_Processing_Parsing\\JURNAL\\modul7_kelompok_1\\modul7_kelompok_1\\Program.cs",
               "RelativeDocumentMoniker": "modul7_kelompok_1\\Program.cs",
               "ToolTip": "D:\\College\\Semester 4\\PrakKPL\\07_Grammar-Based_Input_Processing_Parsing\\JURNAL\\modul7_kelompok_1\\modul7_kelompok_1\\Program.cs",
               "RelativeToolTip": "modul7_kelompok_1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T15:26:16.305Z",
+              "WhenOpened": "2025-04-15T15:46:30.06Z",
               "EditorCaption": ""
             }
           ]

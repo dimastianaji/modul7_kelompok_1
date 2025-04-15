@@ -1,0 +1,15 @@
+{
+   "firstName": "Dimastian",
+   "lastName": "Aji Wibowo",
+   "gender": "male",
+   "age": 20,
+   "address": {
+       "streetAddress": "Batang",
+       "city": "Batang",
+       "state": "Central Java"
+   },
+   "courses": [
+       { "code": "CCK2KAB4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CCK2JAC2", "name": "Proyek Tingkat II" }
+   ]
+}
