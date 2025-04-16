@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35806.99 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modul7_kelompok_1", "modul7_kelompok_1\modul7_kelompok_1.csproj", "{4F1E8ED7-32D9-44C0-9EA1-DB1085ECB88E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modul7_kelompok_1", "modul7_kelompok_1\modul7_kelompok_1.csproj", "{B303A08B-A2AD-44B1-93FE-739544741872}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4F1E8ED7-32D9-44C0-9EA1-DB1085ECB88E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4F1E8ED7-32D9-44C0-9EA1-DB1085ECB88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4F1E8ED7-32D9-44C0-9EA1-DB1085ECB88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4F1E8ED7-32D9-44C0-9EA1-DB1085ECB88E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B303A08B-A2AD-44B1-93FE-739544741872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B303A08B-A2AD-44B1-93FE-739544741872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B303A08B-A2AD-44B1-93FE-739544741872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B303A08B-A2AD-44B1-93FE-739544741872}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {ED83A55C-2337-4429-B463-EFD6A81896A8}
+		SolutionGuid = {8BF4383A-01BA-4301-8A4D-6EDFC48E939B}
 	EndGlobalSection
 EndGlobal
