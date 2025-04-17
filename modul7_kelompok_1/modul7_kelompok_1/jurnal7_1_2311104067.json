@@ -1,0 +1,21 @@
+{
+    "firstName": "Berlian",
+    "lastName": "Seva",
+    "gender": "Female",
+    "age": 21,
+    "address": {
+        "streetAddress": "Kajoran",
+        "city": "Magelang",
+        "state": "Central Java"
+    },
+    "courses": [
+        {
+            "code": "CRI2C4",
+            "name": "Konstruksi Perangkat Lunak"
+        },
+        {
+            "code": "CRI2XX",
+            "name": "Nama Mata Kuliah"
+        }
+    ]
+}

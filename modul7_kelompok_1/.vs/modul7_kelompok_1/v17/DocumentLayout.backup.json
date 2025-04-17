@@ -1,22 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\College\\Semester 4\\PrakKPL\\07_Grammar-Based_Input_Processing_Parsing\\JURNAL\\modul7_kelompok_1\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\JURNAL7_2311104067_KELOMPOK_1\\modul7_kelompok_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B303A08B-A2AD-44B1-93FE-739544741872}|modul7_kelompok_1\\modul7_kelompok_1.csproj|d:\\college\\semester 4\\prakkpl\\07_grammar-based_input_processing_parsing\\jurnal\\modul7_kelompok_1\\modul7_kelompok_1\\glossaryitem2311104058.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B303A08B-A2AD-44B1-93FE-739544741872}|modul7_kelompok_1\\modul7_kelompok_1.csproj|solutionrelative:modul7_kelompok_1\\glossaryitem2311104058.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B303A08B-A2AD-44B1-93FE-739544741872}|modul7_kelompok_1\\modul7_kelompok_1.csproj|c:\\users\\user\\source\\repos\\jurnal7_2311104067_kelompok_1\\modul7_kelompok_1\\modul7_kelompok_1\\datamahasiswa2311104067.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B303A08B-A2AD-44B1-93FE-739544741872}|modul7_kelompok_1\\modul7_kelompok_1.csproj|solutionrelative:modul7_kelompok_1\\datamahasiswa2311104067.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B303A08B-A2AD-44B1-93FE-739544741872}|modul7_kelompok_1\\modul7_kelompok_1.csproj|d:\\college\\semester 4\\prakkpl\\07_grammar-based_input_processing_parsing\\jurnal\\modul7_kelompok_1\\modul7_kelompok_1\\datamahasiswa2311104058.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B303A08B-A2AD-44B1-93FE-739544741872}|modul7_kelompok_1\\modul7_kelompok_1.csproj|c:\\users\\user\\source\\repos\\jurnal7_2311104067_kelompok_1\\modul7_kelompok_1\\modul7_kelompok_1\\jurnal7_1_2311104067.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B303A08B-A2AD-44B1-93FE-739544741872}|modul7_kelompok_1\\modul7_kelompok_1.csproj|solutionrelative:modul7_kelompok_1\\jurnal7_1_2311104067.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B303A08B-A2AD-44B1-93FE-739544741872}|modul7_kelompok_1\\modul7_kelompok_1.csproj|c:\\users\\user\\source\\repos\\jurnal7_2311104067_kelompok_1\\modul7_kelompok_1\\modul7_kelompok_1\\datamahasiswa2311104058.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B303A08B-A2AD-44B1-93FE-739544741872}|modul7_kelompok_1\\modul7_kelompok_1.csproj|solutionrelative:modul7_kelompok_1\\datamahasiswa2311104058.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B303A08B-A2AD-44B1-93FE-739544741872}|modul7_kelompok_1\\modul7_kelompok_1.csproj|d:\\college\\semester 4\\prakkpl\\07_grammar-based_input_processing_parsing\\jurnal\\modul7_kelompok_1\\modul7_kelompok_1\\teammembers2311104058.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B303A08B-A2AD-44B1-93FE-739544741872}|modul7_kelompok_1\\modul7_kelompok_1.csproj|c:\\users\\user\\source\\repos\\jurnal7_2311104067_kelompok_1\\modul7_kelompok_1\\modul7_kelompok_1\\glossaryitem2311104058.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B303A08B-A2AD-44B1-93FE-739544741872}|modul7_kelompok_1\\modul7_kelompok_1.csproj|solutionrelative:modul7_kelompok_1\\glossaryitem2311104058.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B303A08B-A2AD-44B1-93FE-739544741872}|modul7_kelompok_1\\modul7_kelompok_1.csproj|c:\\users\\user\\source\\repos\\jurnal7_2311104067_kelompok_1\\modul7_kelompok_1\\modul7_kelompok_1\\teammembers2311104058.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B303A08B-A2AD-44B1-93FE-739544741872}|modul7_kelompok_1\\modul7_kelompok_1.csproj|solutionrelative:modul7_kelompok_1\\teammembers2311104058.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B303A08B-A2AD-44B1-93FE-739544741872}|modul7_kelompok_1\\modul7_kelompok_1.csproj|d:\\college\\semester 4\\prakkpl\\07_grammar-based_input_processing_parsing\\jurnal\\modul7_kelompok_1\\modul7_kelompok_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B303A08B-A2AD-44B1-93FE-739544741872}|modul7_kelompok_1\\modul7_kelompok_1.csproj|c:\\users\\user\\source\\repos\\jurnal7_2311104067_kelompok_1\\modul7_kelompok_1\\modul7_kelompok_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B303A08B-A2AD-44B1-93FE-739544741872}|modul7_kelompok_1\\modul7_kelompok_1.csproj|solutionrelative:modul7_kelompok_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B303A08B-A2AD-44B1-93FE-739544741872}|modul7_kelompok_1\\modul7_kelompok_1.csproj|c:\\users\\user\\source\\repos\\jurnal7_2311104067_kelompok_1\\modul7_kelompok_1\\modul7_kelompok_1\\modul7_kelompok_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B303A08B-A2AD-44B1-93FE-739544741872}|modul7_kelompok_1\\modul7_kelompok_1.csproj|solutionrelative:modul7_kelompok_1\\modul7_kelompok_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,10 +59,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DataMahasiswa2311104067.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\JURNAL7_2311104067_KELOMPOK_1\\modul7_kelompok_1\\modul7_kelompok_1\\DataMahasiswa2311104067.cs",
+              "RelativeDocumentMoniker": "modul7_kelompok_1\\DataMahasiswa2311104067.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\JURNAL7_2311104067_KELOMPOK_1\\modul7_kelompok_1\\modul7_kelompok_1\\DataMahasiswa2311104067.cs*",
+              "RelativeToolTip": "modul7_kelompok_1\\DataMahasiswa2311104067.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:38:48.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "jurnal7_1_2311104067.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\JURNAL7_2311104067_KELOMPOK_1\\modul7_kelompok_1\\modul7_kelompok_1\\jurnal7_1_2311104067.json",
+              "RelativeDocumentMoniker": "modul7_kelompok_1\\jurnal7_1_2311104067.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\JURNAL7_2311104067_KELOMPOK_1\\modul7_kelompok_1\\modul7_kelompok_1\\jurnal7_1_2311104067.json",
+              "RelativeToolTip": "modul7_kelompok_1\\jurnal7_1_2311104067.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-17T17:36:59.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "GlossaryItem2311104058.cs",
-              "DocumentMoniker": "D:\\College\\Semester 4\\PrakKPL\\07_Grammar-Based_Input_Processing_Parsing\\JURNAL\\modul7_kelompok_1\\modul7_kelompok_1\\GlossaryItem2311104058.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\JURNAL7_2311104067_KELOMPOK_1\\modul7_kelompok_1\\modul7_kelompok_1\\GlossaryItem2311104058.cs",
               "RelativeDocumentMoniker": "modul7_kelompok_1\\GlossaryItem2311104058.cs",
-              "ToolTip": "D:\\College\\Semester 4\\PrakKPL\\07_Grammar-Based_Input_Processing_Parsing\\JURNAL\\modul7_kelompok_1\\modul7_kelompok_1\\GlossaryItem2311104058.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\JURNAL7_2311104067_KELOMPOK_1\\modul7_kelompok_1\\modul7_kelompok_1\\GlossaryItem2311104058.cs",
               "RelativeToolTip": "modul7_kelompok_1\\GlossaryItem2311104058.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAowDQAAACcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -59,11 +97,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TeamMembers2311104058.cs",
-              "DocumentMoniker": "D:\\College\\Semester 4\\PrakKPL\\07_Grammar-Based_Input_Processing_Parsing\\JURNAL\\modul7_kelompok_1\\modul7_kelompok_1\\TeamMembers2311104058.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\JURNAL7_2311104067_KELOMPOK_1\\modul7_kelompok_1\\modul7_kelompok_1\\TeamMembers2311104058.cs",
               "RelativeDocumentMoniker": "modul7_kelompok_1\\TeamMembers2311104058.cs",
-              "ToolTip": "D:\\College\\Semester 4\\PrakKPL\\07_Grammar-Based_Input_Processing_Parsing\\JURNAL\\modul7_kelompok_1\\modul7_kelompok_1\\TeamMembers2311104058.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\JURNAL7_2311104067_KELOMPOK_1\\modul7_kelompok_1\\modul7_kelompok_1\\TeamMembers2311104058.cs",
               "RelativeToolTip": "modul7_kelompok_1\\TeamMembers2311104058.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAwwBwAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,28 +110,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\JURNAL7_2311104067_KELOMPOK_1\\modul7_kelompok_1\\modul7_kelompok_1\\Program.cs",
+              "RelativeDocumentMoniker": "modul7_kelompok_1\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\JURNAL7_2311104067_KELOMPOK_1\\modul7_kelompok_1\\modul7_kelompok_1\\Program.cs",
+              "RelativeToolTip": "modul7_kelompok_1\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T15:46:30.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DataMahasiswa2311104058.cs",
-              "DocumentMoniker": "D:\\College\\Semester 4\\PrakKPL\\07_Grammar-Based_Input_Processing_Parsing\\JURNAL\\modul7_kelompok_1\\modul7_kelompok_1\\DataMahasiswa2311104058.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\JURNAL7_2311104067_KELOMPOK_1\\modul7_kelompok_1\\modul7_kelompok_1\\DataMahasiswa2311104058.cs",
               "RelativeDocumentMoniker": "modul7_kelompok_1\\DataMahasiswa2311104058.cs",
-              "ToolTip": "D:\\College\\Semester 4\\PrakKPL\\07_Grammar-Based_Input_Processing_Parsing\\JURNAL\\modul7_kelompok_1\\modul7_kelompok_1\\DataMahasiswa2311104058.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\JURNAL7_2311104067_KELOMPOK_1\\modul7_kelompok_1\\modul7_kelompok_1\\DataMahasiswa2311104058.cs",
               "RelativeToolTip": "modul7_kelompok_1\\DataMahasiswa2311104058.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAIA2wDoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAuwFcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T15:50:50.687Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\College\\Semester 4\\PrakKPL\\07_Grammar-Based_Input_Processing_Parsing\\JURNAL\\modul7_kelompok_1\\modul7_kelompok_1\\Program.cs",
-              "RelativeDocumentMoniker": "modul7_kelompok_1\\Program.cs",
-              "ToolTip": "D:\\College\\Semester 4\\PrakKPL\\07_Grammar-Based_Input_Processing_Parsing\\JURNAL\\modul7_kelompok_1\\modul7_kelompok_1\\Program.cs",
-              "RelativeToolTip": "modul7_kelompok_1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T15:46:30.06Z",
+              "DocumentIndex": 6,
+              "Title": "modul7_kelompok_1",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\JURNAL7_2311104067_KELOMPOK_1\\modul7_kelompok_1\\modul7_kelompok_1\\modul7_kelompok_1.csproj",
+              "RelativeDocumentMoniker": "modul7_kelompok_1\\modul7_kelompok_1.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\JURNAL7_2311104067_KELOMPOK_1\\modul7_kelompok_1\\modul7_kelompok_1\\modul7_kelompok_1.csproj",
+              "RelativeToolTip": "modul7_kelompok_1\\modul7_kelompok_1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-17T17:37:26.233Z",
               "EditorCaption": ""
             }
           ]
