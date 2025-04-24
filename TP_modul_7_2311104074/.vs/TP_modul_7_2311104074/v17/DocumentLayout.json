@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\fahmi\\modul7_kelompok_1\\TP_modul_7_2311104074\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F3A8702-C8B0-4C90-A7D3-815035025727}|TP_modul_7_2311104074\\TP_modul_7_2311104074.csproj|c:\\users\\fahmi\\modul7_kelompok_1\\tp_modul_7_2311104074\\tp_modul_7_2311104074\\datamahasiswa2311104074.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F3A8702-C8B0-4C90-A7D3-815035025727}|TP_modul_7_2311104074\\TP_modul_7_2311104074.csproj|solutionrelative:tp_modul_7_2311104074\\datamahasiswa2311104074.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F3A8702-C8B0-4C90-A7D3-815035025727}|TP_modul_7_2311104074\\TP_modul_7_2311104074.csproj|c:\\users\\fahmi\\modul7_kelompok_1\\tp_modul_7_2311104074\\tp_modul_7_2311104074\\jurnal7_1_2311104074.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F3A8702-C8B0-4C90-A7D3-815035025727}|TP_modul_7_2311104074\\TP_modul_7_2311104074.csproj|solutionrelative:tp_modul_7_2311104074\\jurnal7_1_2311104074.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F3A8702-C8B0-4C90-A7D3-815035025727}|TP_modul_7_2311104074\\TP_modul_7_2311104074.csproj|c:\\users\\fahmi\\modul7_kelompok_1\\tp_modul_7_2311104074\\tp_modul_7_2311104074\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F3A8702-C8B0-4C90-A7D3-815035025727}|TP_modul_7_2311104074\\TP_modul_7_2311104074.csproj|solutionrelative:tp_modul_7_2311104074\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3A8702-C8B0-4C90-A7D3-815035025727}|TP_modul_7_2311104074\\TP_modul_7_2311104074.csproj|c:\\users\\fahmi\\modul7_kelompok_1\\tp_modul_7_2311104074\\tp_modul_7_2311104074\\datamahasiswa2311104074.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3A8702-C8B0-4C90-A7D3-815035025727}|TP_modul_7_2311104074\\TP_modul_7_2311104074.csproj|solutionrelative:tp_modul_7_2311104074\\datamahasiswa2311104074.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Jurnal7_1_2311104074.JSON",
+              "DocumentMoniker": "C:\\Users\\fahmi\\modul7_kelompok_1\\TP_modul_7_2311104074\\TP_modul_7_2311104074\\Jurnal7_1_2311104074.JSON",
+              "RelativeDocumentMoniker": "TP_modul_7_2311104074\\Jurnal7_1_2311104074.JSON",
+              "ToolTip": "C:\\Users\\fahmi\\modul7_kelompok_1\\TP_modul_7_2311104074\\TP_modul_7_2311104074\\Jurnal7_1_2311104074.JSON",
+              "RelativeToolTip": "TP_modul_7_2311104074\\Jurnal7_1_2311104074.JSON",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T16:45:26.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DataMahasiswa2311104074.cs",
               "DocumentMoniker": "C:\\Users\\fahmi\\modul7_kelompok_1\\TP_modul_7_2311104074\\TP_modul_7_2311104074\\DataMahasiswa2311104074.cs",
               "RelativeDocumentMoniker": "TP_modul_7_2311104074\\DataMahasiswa2311104074.cs",
               "ToolTip": "C:\\Users\\fahmi\\modul7_kelompok_1\\TP_modul_7_2311104074\\TP_modul_7_2311104074\\DataMahasiswa2311104074.cs",
               "RelativeToolTip": "TP_modul_7_2311104074\\DataMahasiswa2311104074.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T16:22:38.481Z",
               "EditorCaption": ""
@@ -45,7 +62,7 @@
               "RelativeDocumentMoniker": "TP_modul_7_2311104074\\Program.cs",
               "ToolTip": "C:\\Users\\fahmi\\modul7_kelompok_1\\TP_modul_7_2311104074\\TP_modul_7_2311104074\\Program.cs",
               "RelativeToolTip": "TP_modul_7_2311104074\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T16:21:37.901Z",
               "EditorCaption": ""
